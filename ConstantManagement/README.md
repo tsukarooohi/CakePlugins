@@ -1,6 +1,6 @@
 プラグイン導入CakePHP
 /app/Config/bootstrap.php
-
+<code>
 CakePlugin::loadAll(
 	array(
 		'ConstantManagement' => array(
@@ -8,4 +8,5 @@ CakePlugin::loadAll(
 		)
 	)
 );
+</code>
 追加。
