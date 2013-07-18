@@ -1,4 +1,4 @@
-プラグイン導入CakePHP
+プラグイン導入CakePHP<br>
 /app/Config/bootstrap.php
 <pre>
 CakePlugin::loadAll(
