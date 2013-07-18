@@ -3,7 +3,7 @@
 <pre>
 CakePlugin::loadAll(
 	array(
-		'ConstantManagement' => array(
+		'Constant' => array(
 			'bootstrap' => true
 		)
 	)
